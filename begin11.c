@@ -7,7 +7,7 @@ int main(){
     /*executeble  states*/
     
     area = a*b;
-    printf("%d\n", area);
+    printf("area is %d\n", area);
     
     system("pause");
     
