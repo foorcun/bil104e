@@ -7,7 +7,7 @@ int main()
     printf("welcome to c!\n");
      printf("hosbulduk!\n");
     
-    system("pause");  /* sacede c de �al���r*/
+    system("pause"); /* sacede c de calısır/
     return 0;
     
     }
